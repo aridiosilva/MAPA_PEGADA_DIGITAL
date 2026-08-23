@@ -59,15 +59,32 @@ A imagem pública que emerge é aproximadamente:
 > experiência em sistemas complexos, arquitetura, desenvolvimento, práticas de
 > engenharia e, atualmente, IA generativa.
 
-## 2. Autoria de livros
+## 2. Produção editorial — Editora Revan
 
-O ponto historicamente mais sólido é a associação como autor ou coautor de
-**Sistemas de Informação na Administração Pública**.
+### Arídio Silva / Aridio Silva
 
-O livro aparece em múltiplas fontes independentes, incluindo catálogos
-editoriais, livrarias, bibliotecas e WorldCat. A obra foi publicada pela Revan
-em 2004, possui aproximadamente 403 a 404 páginas e ISBN `8571063095` /
-`9788571063099`.
+Os registros bibliográficos reúnem as variações acentuada e não acentuada do
+nome do autor. A produção editorial identificada é:
+
+```text
+Arídio Silva / Aridio Silva
+│
+├── 📘 Bug do Milênio — Antes, Durante e Depois
+│   └── Editora Revan
+│
+├── 📘 Desvendando o Pregão Eletrônico
+│   ├── Editora Revan — 2002
+│   └── Referências acadêmicas e institucionais
+│
+└── 📘 Sistemas de Informação na Administração Pública
+    ├── Editora Revan — 2004
+    ├── ISBN 8571063095 / 9788571063099
+    └── Presença em universidades e acervos institucionais
+```
+
+*Sistemas de Informação na Administração Pública* aparece em múltiplas fontes
+independentes, incluindo catálogos editoriais, livrarias, bibliotecas e
+WorldCat. A edição possui aproximadamente 403 a 404 páginas.
 
 O catálogo associa Arídio Silva aos temas:
 
@@ -84,13 +101,9 @@ O catálogo associa Arídio Silva aos temas:
 
 ### Relevância histórica
 
-A descrição editorial atribui a Arídio atuação como consultor em projetos de TI
-aplicados à administração pública e menciona outros títulos, incluindo **Bug do
-milênio - Antes, Durante e Depois** e **Desvendando o pregão eletrônico**.
-
-Isso amplia a pegada pública para além do desenvolvimento de software atual:
-há um histórico editorial ligado à transformação digital e informatização do
-setor público.
+A produção editorial conecta a trajetória do autor à informatização e à
+transformação digital do setor público, antes da atuação atual em engenharia de
+software e inteligência artificial.
 
 ## 3. Impacto acadêmico
 
