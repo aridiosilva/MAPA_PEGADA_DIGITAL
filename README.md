@@ -70,16 +70,22 @@ nome do autor. A produção editorial identificada é:
 Arídio Silva / Aridio Silva
 │
 ├── 📘 Bug do Milênio — Antes, Durante e Depois
-│   └── Editora Revan
+│   ├── Editora Revan
+│   └── ISBN 8571061904 / 9788571061903
 │
 ├── 📘 Desvendando o Pregão Eletrônico
 │   ├── Editora Revan — 2002
+│   ├── ISBN 8571062633 / 9788571062632
 │   └── Referências acadêmicas e institucionais
 │
-└── 📘 Sistemas de Informação na Administração Pública
-    ├── Editora Revan — 2004
-    ├── ISBN 8571063095 / 9788571063099
-    └── Presença em universidades e acervos institucionais
+├── 📘 Sistemas de Informação na Administração Pública
+│   ├── Editora Revan — 2004
+│   ├── ISBN 8571063095 / 9788571063099
+│   └── Presença em universidades e acervos institucionais
+│
+└── 📘 Dominando a Tecnologia de Objetos
+    ├── Editora Book Express — 2002
+    └── ISBN 8586846961 / 9788586846962
 ```
 
 *Sistemas de Informação na Administração Pública* aparece em múltiplas fontes
