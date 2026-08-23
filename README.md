@@ -75,7 +75,7 @@ Arídio Silva / Aridio Silva
 │
 ├── 📘 Desvendando o Pregão Eletrônico
 │   ├── Editora Revan — 2002
-│   ├── ISBN 8571062633 / 9788571062632
+│   ├── ISBN 8571062633 / 9788571062634
 │   └── Referências acadêmicas e institucionais
 │
 ├── 📘 Sistemas de Informação na Administração Pública
@@ -85,7 +85,7 @@ Arídio Silva / Aridio Silva
 │
 └── 📘 Dominando a Tecnologia de Objetos
     ├── Editora Book Express — 2002
-    └── ISBN 8586846961 / 9788586846962
+    └── ISBN 8586846961 / 9788586846960
 ```
 
 *Sistemas de Informação na Administração Pública* aparece em múltiplas fontes
