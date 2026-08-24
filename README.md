@@ -1,4 +1,4 @@
-# Mapa da Pegada Digital Pública de Aridio Silva
+# Mapa da Pegada Digital Pública
 
 > Esta é uma auditoria de presença pública baseada em resultados associados a
 > variações do nome Aridio Silva. Ligações que não são inequívocas devem ser
